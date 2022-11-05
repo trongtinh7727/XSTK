@@ -1,0 +1,1 @@
+ indexs = [random.randint(0, 51) for i in range(5)]
